@@ -43,7 +43,7 @@ This study aims to:
 - Temporal Coverage: 1997-present
 - Geographic Scope: Canada-wide, with provincial and industry-specific insights.
 4. Housing Affordability and Inflation – Canada Mortgage and Housing Corporation (CMHC)
-- Source: https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/housing-market-information
+- Source: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/housing-market/housing-market-assessment
 - Contents: Housing affordability metrics, rent price changes, mortgage costs, and their relationship with inflation.
 - Temporal Coverage: 1990-present
 - Geographic Scope: Canada-wide, with detailed city-level data.

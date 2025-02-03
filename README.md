@@ -9,10 +9,10 @@ This study analyzes inflation trends in Canada through the lens of Consumer Pric
 ## Key Performance Indicators (KPIs)
 1. Consumer Price Index (CPI) Growth Rate
 - Measures the percentage change in the Consumer Price Index (CPI) over a specified period (monthly or yearly).
--  CPI is the primary indicator of inflation, showing how the average price level of a basket of goods and services changes over time.
+- CPI is the primary indicator of inflation, showing how the average price level of a basket of goods and services changes over time.
 2. Core Inflation Rate
--  Inflation rate that excludes volatile items such as food and energy prices.
-- provides a more stable view of inflation trends by removing short-term price fluctuations.
+- Inflation rate that excludes volatile items such as food and energy prices.
+- Provides a more stable view of inflation trends by removing short-term price fluctuations.
 3. Purchasing Power of the Canadian Dollar
 - Measures how much the value of the Canadian dollar has changed over time in terms of its ability to purchase goods and services.
 - Helps assess the real impact of inflation on consumers and businesses.

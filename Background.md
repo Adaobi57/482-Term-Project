@@ -55,7 +55,7 @@ This study aims to:
 
 <a id="3">[3]</a> Statistics Canada. Impact of rising prices on Canadian households. Government of Canada. Retrieved from https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2022033-eng.htm 
 
-<a id="4">[4]</a> Canada Mortgage and Housing Corporation (CMHC). Housing market information and affordability trends. Retrieved from https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/housing-market-information
+<a id="4">[4]</a> Canada Mortgage and Housing Corporation (CMHC). Housing market information and affordability trends. Retrieved from https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/market-reports/housing-market
 
 <a id="5">[5]</a> Statistics Canada. Wage growth and inflation-adjusted earnings in Canada. Government of Canada. Retrieved from https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401
 

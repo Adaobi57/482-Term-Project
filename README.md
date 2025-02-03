@@ -2,7 +2,7 @@
 *A Decision Intelligence Analysis of Inflation in Canada*
 
 # Executive Summary
-This study analyzes inflation trends in Canada through the lens of Consumer Price Index (CPI) growth, wage growth reports, housing affordability, and monetary policies. Using comprehensive datasets from Statistics Canada, the Bank of Canada, and CMHC, I plan to examine how inflation affects different economic sectors and whether current monetary policies are effective in maintaining price stability. By analyzing these datasets, this research aims to provide insights into the long-term economic implications of inflation in Canada and offer data-driven recommendations for policymakers, businesses, and individuals.
+This study analyzes inflation trends in Canada through the lens of Consumer Price Index (CPI) growth, wage growth reports, housing affordability, and monetary policies. Using comprehensive datasets from Statistics Canada, the Bank of Canada, and CMHC, I plan to examine how inflation affects affordability in different economic sectors and whether current monetary policies are effective in maintaining price stability. By analyzing these datasets, this research aims to provide insights into the long-term economic implications of inflation in Canada and offer data-driven recommendations for policymakers, businesses, and individuals.
 
 [Read detailed background information here](Background.md)
 

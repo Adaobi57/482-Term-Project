@@ -49,7 +49,7 @@ This study aims to:
 - Geographic Scope: Canada-wide, with detailed city-level data.
 
 ## References
-<a id="1">[1]</a> [1] Bank of Canada. Inflation measures: CPI-trim, CPI-median, CPI-common. Retrieved from https://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures/inflation/
+<a id="1">[1]</a> Bank of Canada. Inflation measures: CPI-trim, CPI-median, CPI-common. Retrieved from https://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures/inflation/
 
 <a id="2">[2]</a>  Statistics Canada. Consumer Price Index (CPI), monthly and annual trends. Government of Canada. Retrieved from https://www.statcan.gc.ca/en/subjects-start/prices_and_price_indexes/consumer_price_indexes
 

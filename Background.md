@@ -20,13 +20,15 @@ This analysis is significant for various reasons:
 ## Research Objectives 
 
 This study aims to:
-1.	To analyze the historical trends of inflation in Canada over the past decade and identify periods of high and low inflation and the factors contributing to these changes.
-2.	To evaluate how inflation affects affordability of essential goods and services such as food, housing, and transportation.
-3.	To analyze the impact of the Bank of Canada’s interest rate decisions on inflation levels and assess the effectiveness of monetary policy tools in stabilizing inflation.
+1.	To analyze the historical trends of inflation in Canada over the past decade and identify periods of high and low inflation. <mark>~~and the factors contributing to these changes.~~</mark>
+2.	To evaluate how inflation correlates with affordability of essential goods and services such as food, housing, and transportation. <mark>*You will need to be specific here, maybe choose metrics like "average weekly grocery bill", etc This is too broad*</mark>
+3.	To analyze the <mark>relationship between</mark> the Bank of Canada’s interest rate decisions and inflation levels to assess the effectiveness of monetary policy tools in stabilizing inflation.
 4.	To explore how inflation correlates with GDP growth, employment rates, and consumer spending.
 5.	To predict future inflation rates.
 
-## Potential Datasets
+<mark>These are ambitious, but I see where you are going.  I think we can add some data in later if the outcomes are too boring when we get to regression and feature weights, linear mixed effect models</mark>
+
+## Datasets
 1.	Consumer Price Index (CPI) – Statistics Canada
 - Source: https://www.statcan.gc.ca/en/subjects-start/prices_and_price_indexes/consumer_price_indexes
 - Contents: Monthly and annual changes in the Consumer Price Index (CPI), covering inflation trends across different sectors (e.g., food, housing, transportation).
@@ -49,6 +51,9 @@ This study aims to:
 - Geographic Scope: Canada-wide, with detailed city-level data.
 
 ## References
+
+<!-- Retrieved form should have the date you retrieved it -->
+
 <a id="1">[1]</a> Bank of Canada. Inflation measures: CPI-trim, CPI-median, CPI-common. Retrieved from https://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures/inflation/
 
 <a id="2">[2]</a>  Statistics Canada. Consumer Price Index (CPI), monthly and annual trends. Government of Canada. Retrieved from https://www.statcan.gc.ca/en/subjects-start/prices_and_price_indexes/consumer_price_indexes

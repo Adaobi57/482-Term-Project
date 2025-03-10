@@ -37,3 +37,14 @@ Summary details:
 ### Wage Growth vs. Inflation Rate
 - Compares the growth in average wages to the inflation rate to determine if wages are keeping up with rising costs.
 - If wages grow slower than inflation, consumers lose purchasing power, leading to reduced economic well-being.
+
+![CPI](CPI/All.png)
+![CPI](CPI/fig1.png)
+![CPI](CPI/fig2.png)
+![CPI](CPI/fig3.png)
+![CPI](CPI/fig4.png)
+![CPI](CPI/fig5.png)
+![CPI](CPI/fig6.png)
+![CPI](CPI/fig7.png)
+![CPI](CPI/fig8.png)
+![FOOD](Food/All Products.png)

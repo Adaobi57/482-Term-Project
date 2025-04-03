@@ -39,5 +39,8 @@ Summary details:
 - If wages grow slower than inflation, consumers lose purchasing power, leading to reduced economic well-being.
 
 ![CPI](CPI/All.png)
+- This graph details the average CPI determined from all goods from 1992 to 2025.
 ![FOOD](Food/Products.png)
+-  This graph details the monthly average price of selected food items from 2017 to 2024. 
 ![WAGE](Wage/All.png)
+- This graph details the average wage for all industries from 1997 to 2024.

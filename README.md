@@ -30,10 +30,6 @@ Summary details:
  - Measures how much the value of the Canadian dollar has changed over time in terms of its ability to purchase goods and services.
 - Helps assess the real impact of inflation on consumers and businesses.
 
-### Interest Rate (Bank of Canada Policy Rate)
-- The rate at which the Bank of Canada lends to commercial banks, influencing borrowing costs across the economy.
-- Inflation and interest rates are closely linked. The Bank of Canada adjusts interest rates to control inflation—raising rates to slow inflation and lowering them to stimulate growth.
-
 ### Wage Growth vs. Inflation Rate
 - Compares the growth in average wages to the inflation rate to determine if wages are keeping up with rising costs.
 - If wages grow slower than inflation, consumers lose purchasing power, leading to reduced economic well-being.

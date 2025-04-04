@@ -71,10 +71,21 @@ The inferred relationship between the variables derived from the correlation mat
 
 
 ![CPI](CPI/fi4.png)
+- Relationship between Year and Average CPI
+  
 ![CPI](CPI/fi5.png)
+- Relationship between Wage and Average CPI
+  
 ![CPI](CPI/fi6.png)
+- Directed graph (digraph) theoretical model
+  
 ![CPI](CPI/fi7.png)
+
+- Data-derived model
+
 ![CPI](CPI/fi8.png)
+
+- Refined casual digraph model
 
 Discussion
 

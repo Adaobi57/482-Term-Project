@@ -9,6 +9,8 @@ This study analyzes inflation trends in Canada through the lens of Consumer Pric
 
 [Read detailed background information here](Background.md)
 
+[See Supplemental information here](Supplemental.md)
+
 ## Key Performance Indicators (KPIs)
 
 ### Consumer Price Index (CPI) Growth Rate

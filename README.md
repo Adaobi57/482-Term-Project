@@ -36,7 +36,12 @@ Summary details:
 
 ![CPI](CPI/All.png)
 - This graph details the average CPI determined from all goods from 1992 to 2025.
+![CPI](Inflation/fi2.png)
+- This chart details all product categories used to determine annual average CPI.
 ![FOOD](Food/Products.png)
 -  This graph details the monthly average price of selected food items from 2017 to 2024. 
 ![WAGE](Wage/All.png)
 - This graph details the average wage for all industries from 1997 to 2024.
+
+![Inflation](Inflation/fi1.png)
+- This graph shows change in inflation measures Total CPI, CPI-trim, CPI-Common, and CPI-Median from 1992-2025. 

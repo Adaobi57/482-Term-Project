@@ -44,4 +44,13 @@ Summary details:
 - This graph details the average wage for all industries from 1997 to 2024.
 
 ![Inflation](Inflation/fi1.png)
-- This graph shows change in inflation measures Total CPI, CPI-trim, CPI-Common, and CPI-Median from 1992-2025. 
+- This graph shows change in inflation measures Total CPI, CPI-trim, CPI-Common, and CPI-Median from 1992-2025.
+
+
+# Exploratory Data Analysis
+![CPI](CPI/fi3.png)
+![CPI](CPI/fi4.png)
+![CPI](CPI/fi5.png)
+![CPI](CPI/fi6.png)
+![CPI](CPI/fi7.png)
+![CPI](CPI/fi8.png)

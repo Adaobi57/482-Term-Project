@@ -49,8 +49,40 @@ Summary details:
 
 # Exploratory Data Analysis
 ![CPI](CPI/fi3.png)
+
+Key Insights from Correlation Matrix Heat Map
+
+Year strongly correlates with Wage (0.99) and Average_CPI (0.98): This suggests that over time, wages and average CPI have increased consistently, implying a likely causal relationship from Year to Wage and Average_CPI.
+Total_CPI also strongly correlates with Average_CPI (0.99): This very high correlation indicates that Total_CPI is likely a strong driver or direct contributor to Average_CPI.
+Cpi_Common, Cpi_Median, Cpi_Trim correlate well with Total_CPI (ranging from 0.85 to 0.98): These are likely components or inputs to Total_CPI.
+
+Inferred Causal Relationships
+- Year → Wage: Economic growth and cost-of-living adjustments drive wage increases.
+- Year → Average_CPI: Inflation grows over time.
+- Total_CPI → Average_CPI: Total CPI directly influences or composes Average CPI.
+- Cpi_Common, Cpi_Median, Cpi_Trim → Total_CPI: These are likely individual CPI components contributing to the total.
+
+Discussion
+
+Wage increases are highly time-dependent, likely reflecting economic growth and cost-of-living adjustments. Average_CPI is most influenced by Total_CPI, which itself is a function of Cpi_Common, Cpi_Median, and Cpi_Trim. Year serves as a confounding driver across all economic indicators, acting more like a proxy for economic progress.
+
+# Statistical Analysis
+The inferred relationship between the variables derived from the correlation matrix were used to interpret a causal relationship through causal inference.
+
+
 ![CPI](CPI/fi4.png)
 ![CPI](CPI/fi5.png)
 ![CPI](CPI/fi6.png)
 ![CPI](CPI/fi7.png)
 ![CPI](CPI/fi8.png)
+
+Discussion
+
+The causal effect was identified to understand how the variables in the causal model are related. To estimate the magnitude of the effect, the instrument variable method was used as the backdoor linear regression and other models did not work. Using “Year” as the instrument in this analysis, the mean value of the casual estimate is 3.458. This value tells us how much change in “Total CPI” is expected to impact “Average CPI” and suggests that, on average one unit of increase in “Total CPI” is associated with an increase in on “Average CPI” of approximately 3.458 units. 
+
+The refutation step was done with a placebo treatment refuter as the random common cause method did not work with our instrument variable. However, the new effect estimate is 107.9 and the p value is 0.99. This implies that the casual effect or method used to calculate the estimate is not robust as it changed significantly when applied. This raises questions about the validity of the initial estimate and may point to the fact that a wrong estimation method was used. I am unable to validate the causal effect otherwise as other estimation methods did not work for my dataset. 
+
+# Conclusion
+
+The data reveals strong interdependencies between time, wage levels, and inflation indicators. The correlation causal model indicates that while time drives most economic changes, the breakdown of CPI components also plays a crucial role in shaping the overall inflation picture. However, the causal inference model shows that the estimated effect is not robust due to the significant difference and high p-value from the refutation step. This indicates that causal inference is not the best method to determine causality, rather than an issue with correlation in the data itself.
+

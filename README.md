@@ -17,7 +17,6 @@ This study analyzes inflation trends in Canada through the lens of Consumer Pric
 
 The Consumer Price Index (CPI) is a vital Key Performance Indicator (KPI) for understanding inflation trends and their impact on economic stability in Canada.
 
-<!-- consider writing a brief paragraph like the one above ^^ that emphasizes the potential value of looking at this measurement. We want to convey awareness of the business value of this measure and our ability to take a macro view -->
 
 Summary details:
 
